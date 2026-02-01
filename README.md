@@ -28,10 +28,12 @@ A production-ready SaaS that compiles a filled project intake into a structured 
 - **Security**: server-side entitlement gate + webhook signature verification
 
 ## Pricing tiers (default)
-- Starter: $19/mo
-- Pro: $49/mo
-- Team: $149/mo
-
+- Starter: $9.99/mo
+- Pro: $19.99/mo
+- Team: $74.99/mo
+- Annual: 199.99/yr
+- Triannually: 499.99/3yrs
+  
 You can change pricing in Stripe Products/Prices and update tier labels in `specs/ENTITLEMENTS.md`.
 
 ## Quickstart (local dev)
