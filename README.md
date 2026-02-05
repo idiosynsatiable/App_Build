@@ -40,3 +40,7 @@ You can change pricing in Stripe Products/Prices and update tier labels in `spec
 1) Install deps
 ```bash
 npm install
+
+## License
+
+MIT — see [LICENSE](LICENSE)
